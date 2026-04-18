@@ -1,5 +1,15 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package latihan;
+
 import java.util.Scanner;
 
+/**
+ *
+ * @author Hadid Riansyah
+ */
 public class latihan1 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
@@ -10,7 +20,7 @@ public class latihan1 {
         System.out.print("Masukkan total nilai: ");
         double nilai = input.nextDouble();
         
-        double validasi = 14 * 75 / 100.0;
+        double validasi = 21 * 75 / 100.0;
         
         String grade;
 
